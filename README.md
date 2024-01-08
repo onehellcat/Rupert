@@ -1,4 +1,5 @@
 Current commands<br>
+<br>
  Clear command <br>
         Cleares messages in the text channel  2 inputs<br>
             ╰┈➤ First input is the amount of messages you want to delete. ( Min 1 - Max 100 ) <br>

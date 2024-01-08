@@ -1,8 +1,8 @@
-Current commands
- Clear command 
-        Cleares messages in the text channel  2 inputs
-            ╰┈➤ First input is the amount of messages you want to delete. ( Min 1 - Max 100 ) 
-                  ╰┈➤ Second input is a target. Where you delete the targeted user's messages. ( Not required input )
+Current commands<br>
+ Clear command <br>
+        Cleares messages in the text channel  2 inputs<br>
+            ╰┈➤ First input is the amount of messages you want to delete. ( Min 1 - Max 100 ) <br>
+                  ╰┈➤ Second input is a target. Where you delete the targeted user's messages. ( Not required input )<br>
                        ╰┈➤ ! Users with administrator permissions can use it  
                          ╰┈➤ ! Logs any interaction  in a specific channel with
                            ╰┈➤ ! The user of the command, a target ( if given ), the channel, reason , and total messages.

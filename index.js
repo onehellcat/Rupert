@@ -25,20 +25,24 @@ client.login(client.config.token)
 
 
 /**
-* !━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-* TODO: A command that makes the bot to send a message with  a welcome message and a button
-* * ✎ in the same channel that the command was sent . 
-* * ✎ the button gives newcommers their new role and removes newcommer
-* * ✎ ( newcommer is the default role when someone joins the server, can't do anything , only sees  #rules | #newcommers | @afk 
-* * ✎ the new role is -> Member 
-* !━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+* ?━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+* ? Idea and feature list
+* ?━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+* * Basic welcome room message with a button that gives you the default Member Role
+* *     ╰┈➤✎ TODO: A command that makes the bot to send a message with  a welcome message and a button
+* *     ╰┈➤✎ in the same channel that the command was sent . 
+* *     ╰┈➤✎ the button gives newcommers their new role and removes newcommer
+* *     ╰┈➤✎ ( newcommer is the default role when someone joins the server, can't do anything , only sees  #rules | #newcommers | @afk 
+* *     ╰┈➤✎ the new role is -> Member 
+* ?━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+* * Discord invite link filter that filters out any discord invite links
+* ! Not needed anymore. Discord built in automod can do this with a simple regex code.
+* ! Already done on test server
+* ?━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 */
 
-/**
-* !━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-* TODO: Discord invite link filter
-* !━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-*/
+
+
 
 
 

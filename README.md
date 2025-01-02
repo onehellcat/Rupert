@@ -32,5 +32,7 @@ Current commands<br>
     ╰┈➤ Event Handler<br>
     ╰┈➤ File Loader<br>
     ╰┈➤ Interaction Create ( For building / ( Slash ) commands <br>
-    
+<br>
+/ Currently discontinued / 
+   
 ![](https://github.com/onehellcat/Rupert/blob/master/current_bot_commands.png)
